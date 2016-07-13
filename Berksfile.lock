@@ -1,0 +1,10 @@
+DEPENDENCIES
+  build-essential (= 2.2.3)
+  s3fs-fuse
+    path: .
+    metadata: true
+
+GRAPH
+  build-essential (2.2.3)
+  s3fs-fuse (0.1.0)
+    build-essential (= 2.2.3)

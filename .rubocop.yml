@@ -1,0 +1,6 @@
+Style/HashSyntax:
+    Enabled: false
+Style/Encoding:
+    Enabled: false
+Documentation:
+    Enabled: False
